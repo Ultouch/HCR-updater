@@ -1,0 +1,3 @@
+---splash screen
+bitmap with 24bit and nonzero resolution
+https://online-converting.com/image/convert2bmp/#google_vignette
