@@ -10,6 +10,6 @@ export class AppComponent {
   connected:number = 0;
 
   ngAfterViewInit(){
-    
   }
+  
 }
