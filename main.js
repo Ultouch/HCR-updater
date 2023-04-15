@@ -10,8 +10,10 @@ function createWindow () {
     if(options == true){
         const mainWindow = new BrowserWindow({
             show: false,
-            height: 440,
-            width: 753,
+            // height: 440,
+            // width: 753,
+            height: 1000,
+            width: 1000,
             resizable: false,
             webPreferences: {
                 nodeIntegration: true,
@@ -23,6 +25,7 @@ function createWindow () {
             title: 'HCR',
         });
         mainWindow.loadURL('http://localhost:4200')
+        mainWindow.openDevTools();
         mainWindow.once('ready-to-show', () => {
             mainWindow.show();
         });

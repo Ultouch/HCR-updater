@@ -1,15 +1,15 @@
-<div class="content-750-450 content-padding-15">
-  <div class="content-100p-70p content-padding-h-15 flex-center-center">
-    <img class="img-auto-auto" src="assets/svg/cooli.svg">
+<div class="content-100p-100p content-padding-15">
+  <div class="content-100p-70p flex-center-center">
+    <img class="img-auto-auto" src="">
   </div>
-  <div class="content-100p-15p flex-center-center bold">
-    LOADING...
+  <div class="content-100p-20p flex-center-center bold s20">
+    <label id="label"></label>
+    <label *ngIf="connected == 1">Aucune connexion internet !</label>
   </div>
-  <div class="content-100p-15p content-padding-v-30 flex-center-center">
-    <div class="container">
-      <div class="skills" style="--skills : 30%"></div>
+  <div class="content-100p-10p flex-end-center">
+    <div class="content-100p-20 radius-10 bg-gray-dark relative">
+      <progress id="progress" class="progress height-20 absolute radius-10 bg-gray-light"></progress>
     </div>
   </div>
 </div>
-
 <router-outlet></router-outlet>
