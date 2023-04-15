@@ -1,13 +1,15 @@
-<img src="assets/electron.png">
-<div class="app">
-  <div class="app-1">
-    <div class="app-1-1">
-      <label for="download" id="download-label" class="app-1-1-1"></label>
-      <label *ngIf="connected == 1" class="app-1-1-1">Aucune connexion internet !</label>
-    </div>
-    <div class="app-1-2">
-      <progress id="download" class="app-1-2-1" max="100" value="0"></progress>
+<div class="content-750-450 content-padding-15">
+  <div class="content-100p-70p content-padding-h-15 flex-center-center">
+    <img class="img-auto-auto" src="assets/svg/cooli.svg">
+  </div>
+  <div class="content-100p-15p flex-center-center bold">
+    LOADING...
+  </div>
+  <div class="content-100p-15p content-padding-v-30 flex-center-center">
+    <div class="container">
+      <div class="skills" style="--skills : 30%"></div>
     </div>
   </div>
 </div>
+
 <router-outlet></router-outlet>

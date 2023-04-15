@@ -1,0 +1,18 @@
+<svg id="Composant_124_1" data-name="Composant 124 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="650" height="350" viewBox="0 0 1144 847.36">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_237" data-name="Rectangle 237" width="682.44" height="776.721" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Groupe_465" data-name="Groupe 465" transform="translate(297.78)" clip-path="url(#clip-path)">
+    <path id="Tracé_336" data-name="Tracé 336" d="M52.122,170.477C135.394,31.834,299.12,28.77,313.584,28.75c149.691-.215,291.757,112.517,281.011,180.824-8.965,56.992-121.648,66.165-122.179,119.735-.5,50.047,97.677,59.924,109.961,119.735,14.439,70.3-95.974,179.319-217.478,197.929-127.987,19.6-250.261-63.865-307.89-166.163-9.127-16.2-90.823-167.253-4.887-310.333" transform="translate(18.998 41.502)" fill="#fff"/>
+    <path id="Tracé_337" data-name="Tracé 337" d="M117.113,402.057,1.994,468.427,0,80.178l115.784,65.307Z" transform="translate(0 115.743)" fill="#323846"/>
+    <path id="Tracé_338" data-name="Tracé 338" d="M681.275,277.26,342.039,473.247.807,280.787v-.069l115.119-66.37L341.374,341.436,565.491,212.019v-1.8Z" transform="translate(1.164 303.473)" fill="#20232b"/>
+    <path id="Tracé_339" data-name="Tracé 339" d="M565.35,259.432V258.9L339.9,131.743,115.784,261.228,0,195.921,339.236,0,680.469,192.395Z" transform="translate(0.001 0)" fill="#8a97b2"/>
+    <path id="Tracé_340" data-name="Tracé 340" d="M324.1,223.7l-1.992.5L209.187,288.845l-115.85-64.31-.132-.066,114.12-65.905Z" transform="translate(134.548 228.899)" fill="#20232b"/>
+    <path id="Tracé_341" data-name="Tracé 341" d="M92.4,131.906,94.37,262.952l114.12-65.906Z" transform="translate(133.383 190.416)" fill="#323846"/>
+    <path id="Tracé_342" data-name="Tracé 342" d="M321.3,169.957v.931L208.379,235.53,92.532,171.22l-.135-.066,114.12-65.905Z" transform="translate(133.383 151.934)" fill="#8a97b2"/>
+    <path id="Tracé_343" data-name="Tracé 343" d="M139.907,273.8,480.475,467.075,396.108,274.4,478.5,78.735Z" transform="translate(201.965 113.66)" fill="#323846"/>
+  </g>
+  
+</svg>
