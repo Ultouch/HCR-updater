@@ -1,15 +1,13 @@
 <div class="content-100p-100p content-padding-15">
   <div class="content-100p-70p flex-center-center">
-    <img class="img-auto-auto" src="">
+    <img class="img-auto-auto" src="assets/svg/cooli_word.svg">
   </div>
   <div class="content-100p-20p flex-center-center bold s20">
     <label id="label"></label>
     <label *ngIf="connected == 1">Aucune connexion internet !</label>
   </div>
   <div class="content-100p-10p flex-end-center">
-    <div class="content-100p-20 radius-10 bg-gray-dark relative">
-      <progress id="progress" class="progress height-20 absolute radius-10 bg-gray-light"></progress>
-    </div>
+    <progress id="progress" class="progress content-100p-20 radius-10 bg-gray-dark" max="100" value="0"></progress>
   </div>
 </div>
 <router-outlet></router-outlet>

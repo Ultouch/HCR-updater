@@ -2,6 +2,8 @@
   "name": "hcr-updater",
   "version": "0.0.0",
   "main": "main.js",
+  "author": "Ultouch",
+  "description": "hcr_updater",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",

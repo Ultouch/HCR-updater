@@ -26,18 +26,18 @@
     "!*.map"
   ],
   "win": {
-    "icon": "dist/hcr_updater/assets/icons",
+    "icon": "dist/hcr-updater/assets/icon",
     "target": ["portable"]
   },
   "portable": {
-    "splashImage": "dist/hcr_updater/assets/icons/electron.bmp"
+    "splashImage": "dist/hcr-updater/assets/icon/electron.bmp"
   },
   "mac": {
-    "icon": "dist/hcr_updater/assets/icons",
+    "icon": "dist/hcr-updater/assets/icon",
     "target": ["dmg"]
   },
   "linux": {
-    "icon": "dist/hcr_updater/assets/icons",
+    "icon": "dist/hcr-updater/assets/icon",
     "target": ["AppImage"]
   }
 }

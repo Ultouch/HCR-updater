@@ -14,7 +14,7 @@ export class AppComponent {
   ngAfterViewInit(){
     let progress:any = document.getElementById('progress');
     let label:any = document.getElementById('label');
-    checkInternetConnected().then(() => {
+    checkInternetConnected().then(() => { 
       this.connected = 0;
       const defaultStages = {
         Checking: "Initialisation",
@@ -27,7 +27,7 @@ export class AppComponent {
       };
       const updateOptions = {
         gitUsername: "Ultouch",
-        gitRepo: "hcr-updater",
+        gitRepo: "Hcr-updater",
       
         appName: "hcr",
         appExecutableName: "hcr.exe",

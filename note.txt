@@ -1,3 +1,13 @@
----splash screen
+electron.bmp
+
 bitmap with 24bit and nonzero resolution
 https://online-converting.com/image/convert2bmp/#google_vignette
+
+favicon.ico 
+48 * 48
+
+favicon.256*256
+256 * 256
+
+favicon.512*512
+512 * 512
